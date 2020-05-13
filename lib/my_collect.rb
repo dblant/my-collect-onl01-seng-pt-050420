@@ -10,7 +10,7 @@ def my_collect(array)
   
 end
   if i >= array.length
-    return new_collect
+    return new_collect.split(" ").downcase
   end
 
 new_collect

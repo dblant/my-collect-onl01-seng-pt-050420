@@ -9,7 +9,9 @@ def my_collect(array)
   i += 1 
   
 end
-  
+  while i >=
+end
+
 new_collect
   
 end

@@ -9,9 +9,9 @@ def my_collect(array)
   i += 1 
   
 end
-  if i >= array.length
-    return new_collect.split(" ").downcase
-  end
+  # if i >= array.length
+  #   return new_collect.split(" ").downcase
+  # end
 
 new_collect
   

@@ -1,7 +1,7 @@
 collection = ['ruby', 'javascript', 'python', 'objective-c']
 
 def my_collect(array) 
-  array.upcase
+  array.
 
   
 end

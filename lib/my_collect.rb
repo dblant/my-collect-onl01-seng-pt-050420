@@ -14,6 +14,6 @@ end
   
 end
 
-my_collect(array) do |name|
+my_collect(collection) do |name|
   name.downcase.split(" ").first
 end

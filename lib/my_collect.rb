@@ -10,7 +10,7 @@ def my_collect(array)
   
 end
   
-new_collect.downc
+new_collect.downcase
   
 end
 

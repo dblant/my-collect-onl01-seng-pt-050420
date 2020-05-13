@@ -10,7 +10,7 @@ def my_collect(array)
   
 end
   
-new_collection.split(" ").first
+new_collect.split(" ").first
   
 end
 

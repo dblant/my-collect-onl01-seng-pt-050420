@@ -10,8 +10,10 @@ def my_collect(array)
   
 end
   
-new_collect.join.upcase
+new_collect.join.
   
 end
 
-my_collect(collection)
+my_collect(collection) do |lang|
+  lang.upcase
+end

@@ -1,7 +1,9 @@
 collection = ['ruby', 'javascript', 'python', 'objective-c']
 
 def my_collect(array) 
-  array
+  i = 0 
+  while i < 0 
+  
 
   
 end

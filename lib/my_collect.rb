@@ -10,10 +10,9 @@ def my_collect(array)
   
 end
   
-new_collect
+my_collect(collection) do |name|
+  name..split(" ").first
+end
   
 end
 
-my_collect(collection) do |name|
-  name.downcase.split(" ").first
-end

@@ -9,7 +9,7 @@ def my_collect(array)
   i += 1 
 end
   
-new_collect
+new_collect.split(" ").first
   
 end
 

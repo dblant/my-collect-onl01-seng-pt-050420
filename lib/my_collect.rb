@@ -7,7 +7,7 @@ def my_collect(array)
   while i < array.length
   new_collect << yield(array.split[i])
   i += 1 
-  
+end
 end
   
 new_collect.join.

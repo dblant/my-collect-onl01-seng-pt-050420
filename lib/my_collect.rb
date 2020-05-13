@@ -9,7 +9,7 @@ def my_collect(array)
   i += 1 
 end
   
-new_collect.upcase
+new_collect
   
 end
 

@@ -15,5 +15,5 @@ new_collect
 end
 
 my_collect(collection) do |name|
-  name.split(" ").first.downcase
+  name.downcase.split(" ").first.
 end

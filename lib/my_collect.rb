@@ -9,8 +9,9 @@ def my_collect(array)
   i += 1 
   
 end
-  while i >=
-end
+  if i >= array.length
+    return new_collect.downcase
+  end
 
 new_collect
   

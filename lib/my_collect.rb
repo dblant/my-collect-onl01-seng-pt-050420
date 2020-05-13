@@ -10,7 +10,7 @@ def my_collect(array)
 end
 end
   
-new_collect.join.
+new_collect.join
   
 end
 

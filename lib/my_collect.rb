@@ -2,7 +2,7 @@ collection = ['ruby', 'javascript', 'python', 'objective-c']
 
 def my_collect(array) 
  
- 
+ new_collect = []
   i = 0 
   while i < array.length
   yield
@@ -10,7 +10,7 @@ def my_collect(array)
   
 end
   
-
+new_collect.join.upcase
   
 end
 

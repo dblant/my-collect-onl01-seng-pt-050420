@@ -9,14 +9,11 @@ def my_collect(array)
   i += 1 
   
 end
-  # if i >= array.length
-  #   return new_collect
-  # end
+  if i >= array.length
+    return new_collect
+  end
 
 new_collect
   
 end
 
-my_collect(collection) do |name|
-  name.split(" ").first.downcase
-end
